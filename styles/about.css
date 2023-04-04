@@ -213,6 +213,7 @@ h2, h3, h4, h5, h6 {
 
     li {
         list-style: none;
+        display: contents;
     }
 
     .video2, .video3 {
